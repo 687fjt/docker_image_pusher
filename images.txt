@@ -1,1 +1,2 @@
-gcr.io/cadvisor/cadvisor:v0.49.1
+php:latest
+mysql:8.0
